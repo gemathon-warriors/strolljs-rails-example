@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/gemathon-warriors/strolljs-rails.git
-  revision: c69b2577cf159445e1437b5fb253d4ce88481175
+  revision: 3b0434088ac216c0a93b67c4a14e63869c1306c0
   specs:
     strolljs-rails (0.0.1)
 
