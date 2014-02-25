@@ -39,7 +39,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'strolljs-rails' , github: 'gemathon-warriors/strolljs-rails'
+gem 'strolljs-rails'
 
 gem "twitter-bootstrap-rails"
 gem 'therubyracer'
